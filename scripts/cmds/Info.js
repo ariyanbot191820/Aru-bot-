@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "info",
     version: "1.3",
-    author: "✨ Eren Yeh ✨",
+    author: "Ariyan",
     shortDescription: "Display bot and user information along with uptime and Imgur images/videos.",
     longDescription: "Show detailed info about the bot and the user, with uptime and Imgur image/video features.",
     category: "INFO",
@@ -18,11 +18,11 @@ module.exports = {
   onStart: async function ({ api, event, args }) {
     // Replace with your info
     const userInfo = {
-      name: "Raad (Eren)",  // Replace with your name
-      age: "16+",           // Replace with your age
-      location: "Dhaka",    // Replace with your location
-      bio: "Bot & JavaScript Lover | Always Learning!", // Replace with your bio
-      botName: "🕸️ spideY 🥷", // Replace with bot's name
+      name: "Ariyan",  // Replace with your name
+      age: "19+",           // Replace with your age
+      location: "rajshahi",    // Replace with your location
+      bio: "komu na 🙂 | Always Learning!", // Replace with your bio
+      botName: "Ariyan bot", // Replace with bot's name
       botVersion: "1.0",    // Replace with bot's version
     };
 
