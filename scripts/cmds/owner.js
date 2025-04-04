@@ -16,14 +16,14 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: '𝐇𝐔𝐒𝐒𝐀𝐈𝐍 💝👽',
-      choise: 'Only Russian 🥵🔥',
+      name: 'Ariyan💝👽',
+      choise: 'Only Russian ',
       habit: 'Playing Free Fire 🔥',
       gender: 'Male',
-      age: '16+',
-      height: '_hat 🐸🤠',
+      age: '19+',
+      height: '5.11',
       facebookLink: 'https://www.facebook.com/profile.php?id=100071009500533',
-      nick: '𝐇4𝐒𝐒𝐀1𝐍 💫🔥'
+      nick: 'Aru 💫🔥'
     };
 
     const bold = 'https://i.imgur.com/LbneO8C.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
