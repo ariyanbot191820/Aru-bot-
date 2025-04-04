@@ -33,12 +33,12 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const frome = " Dhaka, Mirpur ";
-    const authorAge = "16";
-    const authorName = "𝐄𝐫𝐞𝐧 𝐘𝐞𝐚𝐠𝐞𝐫";
-    const authorNickname = "Eruuuu! ";
+    const frome = " Santahar,rajshahi ";
+    const authorAge = "19+";
+    const authorName = "Ariyan";
+    const authorNickname = "Aru ";
     const authorChoise = "Russian";
-    const status = "𝗣𝘂𝗿𝗲 𝗦𝗶𝗻𝗴𝗹𝗲";
+    const status = "Married";
 
     const urls = JSON.parse(fs.readFileSync('scripts/cmds/assets/Ayan.json'));
     const link = urls[Math.floor(Math.random() * urls.length)];
@@ -56,7 +56,7 @@ module.exports = {
 
     message.reply({
       body: `╔════════════════╗
-║  𝐁𝐨𝐭 :  🕸️ SpideY 🕷️         ║
+║  𝐁𝐨𝐭 :  Ariyan bot         ║
 ╠════════════════╣
 ║ 𝐍𝐚𝐦𝐞: ${authorName}
 ║ 𝐅𝐫𝐨𝐦:  ${frome}
